@@ -1,5 +1,6 @@
 Line1 by u1
 This is a demo file by u2
+This is a demo file by u1
 Welcome to Git and GitHub
 This is Line3
 Line added by u1
